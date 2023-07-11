@@ -1,10 +1,10 @@
 
 import './App.css';
-
+import AppBar from './components/Appbar'
 function App() {
   return (
     <div className="App">
-      Hello youtube
+      <AppBar/>
     </div>
   );
 }
