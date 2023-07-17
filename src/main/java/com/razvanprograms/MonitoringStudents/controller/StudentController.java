@@ -1,5 +1,6 @@
 package com.razvanprograms.MonitoringStudents.controller;
 
+import com.razvanprograms.MonitoringStudents.model.Student;
 import com.razvanprograms.MonitoringStudents.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
