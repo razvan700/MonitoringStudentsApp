@@ -7,6 +7,7 @@ The frontend features a big paper field titled "Add student",  two empty text fi
 student address, and student name. Also, a green "ADD" button. Below this, there is another paper,
 titled "Students" for displaying the list of students present in the database.
 
-
+I also added a basic authentication using spring security. 
+https://github.com/razvan700/MonitoringStudentsApp/blob/d42ba2ca40202c6679a056161d27bc4d8daf3cb1/Basic%20authentication.PNG
 I am working on implementing multiple types of users(student, professor, and admin).
 
